@@ -1,0 +1,11 @@
+[book]
+title = "魔王大人、RETRY！"
+authors = "神埼黑音"
+language = "zh-Hant"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "coal"
+no-section-label = true
