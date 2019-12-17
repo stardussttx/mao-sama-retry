@@ -1,3 +1,7 @@
+# 魔王大人、RETRY！
+
+[![Build Status](https://travis-ci.org/stardussttx/mao-sama-retry.svg?branch=master)](https://travis-ci.org/stardussttx/mao-sama-retry)
+
 # 簡介
 
 隨處可見的社會人士——大野晶在自己運營的遊戲內，以被稱之為「魔王」角色的登陸狀態下，轉移到了異世界。
