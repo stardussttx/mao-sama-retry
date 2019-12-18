@@ -22,6 +22,7 @@ script:
 deploy:
   provider: pages
   token: $GITHUB_TOKEN
+  cleanup: false
   local_dir: book
   keep_history: false
   on:
