@@ -3,6 +3,8 @@
 [![Build Status](https://travis-ci.org/stardussttx/mao-sama-retry.svg?branch=master)](https://travis-ci.org/stardussttx/mao-sama-retry)
 <br /><br />
 The rendered documentation is hosted at [https://stardussttx.github.io/mao-sama-retry/](https://stardussttx.github.io/mao-sama-retry/)
+<br /><br />
+This documentation is rendered with [mdBook](https://github.com/rust-lang/mdBook)
 
 # 簡介
 
