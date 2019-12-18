@@ -22,7 +22,7 @@ script:
 deploy:
   provider: pages
   token: $GITHUB_TOKEN
-  keep_history: false
+  skip-cleanup: true
   local_dir: book
   keep_history: false
   on:
