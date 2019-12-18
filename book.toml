@@ -7,5 +7,7 @@ src = "src"
 
 [output.html]
 default-theme = "light"
-preferred-dark-theme = "coal"
+preferred-dark-theme = "ayu"
 no-section-label = true
+git-repository-url = "https://github.com/stardussttx/mao-sama-retry"
+git-repository-icon = "fa-github"

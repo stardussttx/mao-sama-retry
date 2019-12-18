@@ -8,6 +8,6 @@
 <br /><br />
 這是一部外觀上是魔王，可其內在是一般人的誤會系幻想世界。
 <br /><br /><br /><br />
-source : epub(勤奮的懶惰的羊)
+Source : epub(勤奮的懶惰的羊)
 <br /><br /><br />
-by stardussttx
+By stardussttx
