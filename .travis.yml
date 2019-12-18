@@ -1,3 +1,4 @@
+os: linux
 language: rust
 
 
@@ -22,7 +23,10 @@ script:
 deploy:
   provider: pages
   token: $GITHUB_TOKEN
-  skip-cleanup: true
+  
+  #skip_cleanup: true
+  edge: true
+  
   local_dir: book
   keep_history: false
   on:
