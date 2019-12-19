@@ -36,4 +36,7 @@ EPUB(勤奮的懶惰的羊)
 <br /><br />
 整合群：893512509
 <br /><br /><br />
+**The source for this documentation can be found on [GitHub](https://github.com/stardussttx/mao-sama-retry).**
+<br /><br />
 **Rendered with [mdBook](https://github.com/rust-lang/mdBook) by stardussttx**
+<br /><br />
