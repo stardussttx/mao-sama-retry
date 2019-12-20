@@ -1,6 +1,6 @@
 # Summary
 
-- [簡介](./README.md)
+- [魔王大人、RETRY！](./README.md)
 
 - [目錄](./content.md)
 
