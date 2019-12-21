@@ -15,5 +15,4 @@ This documentation is rendered with [mdBook](https://github.com/rust-lang/mdBook
 他們被想要討伐魔王的國家和聖女所盯上，這場引發的騷動最終都把整座王國捲入其中。
 <br /><br />
 這是一部外觀上是魔王，可其內在是一般人的誤會系幻想世界。
-<br /><br /><br />
-
+<br /><br />
