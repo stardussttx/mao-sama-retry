@@ -1,6 +1,7 @@
 # 魔王大人、RETRY！
 
-[![Build Status](https://travis-ci.org/stardussttx/mao-sama-retry.svg?branch=master)](https://travis-ci.org/stardussttx/mao-sama-retry)
+
+[![Build Status](https://travis-ci.com/stardussttx/mao-sama-retry.svg?branch=master)](https://travis-ci.com/stardussttx/mao-sama-retry)
 <br /><br />
 The rendered documentation is hosted at [https://stardussttx.github.io/mao-sama-retry/](https://stardussttx.github.io/mao-sama-retry/)
 <br /><br />
