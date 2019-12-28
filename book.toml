@@ -1,6 +1,6 @@
 [book]
 title = "魔王大人、RETRY！"
-authors = "神埼黑音"
+authors = ["神埼黑音"]
 language = "zh-Hant"
 multilingual = false
 src = "src"
