@@ -1,4 +1,4 @@
-# 魔王大人、RETRY！
+# 魔王大人、RETRY！ (重來吧，魔王大人！)
 
 
 [![Build Status](https://travis-ci.com/stardussttx/mao-sama-retry.svg?branch=master)](https://travis-ci.com/stardussttx/mao-sama-retry)
