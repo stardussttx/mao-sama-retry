@@ -15,17 +15,17 @@ before_script:
   - cargo install-update -a
 
 script:
-  - mdbook build 
+  - mdbook build path/to/mybook && mdbook test path/to/mybook
   
-  - mdbook test
-  #path/to/mybook && mdbook test path/to/mybook
+ 
+  
 deploy:
   provider: pages
   strategy: git
   edge: true
   cleanup: false
   github-token: $GITHUB_TOKEN
-  #local-dir: path/to/mybook/book
+  local-dir: path/to/mybook/book
   keep-history: false
   on:
     branch: master
