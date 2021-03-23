@@ -25,7 +25,7 @@ deploy:
   edge: true
   cleanup: false
   github-token: $GITHUB_TOKEN
-  local-dir: /book
+  local-dir: ./book
   keep-history: false
   on:
     branch: master
