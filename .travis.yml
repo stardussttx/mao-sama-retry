@@ -23,7 +23,7 @@ deploy:
   provider: pages
   token: $GITHUB_TOKEN
   
-  skip_cleanup: true
+  cleanup: false
   
   
   local_dir: book
