@@ -15,7 +15,7 @@ before_script:
   - cargo install-update -a
 
 script:
-  - mdbook build path/to/mybook && mdbook test path/to/mybook
+  - mdbook build  && mdbook test 
   
  
   
@@ -25,7 +25,7 @@ deploy:
   edge: true
   cleanup: false
   github-token: $GITHUB_TOKEN
-  local-dir: path/to/mybook/book
+  #local-dir: path/to/mybook/book
   keep-history: false
   on:
     branch: master
